@@ -1,0 +1,2 @@
+# Nimcode
+AI terminal agent
